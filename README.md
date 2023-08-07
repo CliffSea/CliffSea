@@ -7,7 +7,7 @@
 
 - 💬 Ask me about **Kotlin and Java**
 
-- 📫 How to reach me **Cliffsea#0459**
+- 📫 How to reach me **Cliffsea**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
