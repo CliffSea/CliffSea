@@ -7,10 +7,10 @@
 
 - 💬 Ask me about **Kotlin and Java**
 
-- 📫 How to reach me **Cliffsea**
+- 📫 You can reach me on discord: Cliffsea
 
 <h3 align="left">Connect with me:</h3>
-<p align="left">
+<p align="left"><a href="https://www.twitter.com/cliffsea_" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/twitter/twitter-original.svg" alt="Twitter" width="40" height="40"/> </a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
